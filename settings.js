@@ -9,7 +9,7 @@ global.socialm = "GitHub: Timtech" //ur github or insta name
 global.location = "Nigeria, Ghana" //ur location
 
 //new
-global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
+global.botname = 'TribalGamerNetwork' //ur bot name
 global.ownernumber = ['233595885532'] //ur owner number, dont add more than one
 global.ownername = '© timtech' //ur owner name
 global.websitex = ""
